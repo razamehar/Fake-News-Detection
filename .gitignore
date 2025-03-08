@@ -80,7 +80,10 @@ venv/
 env/
 ENV/
 .venv/
-.env/
+.env
 presentation/
 output/media/
 output/
+
+0.26.0
+session_name.session
