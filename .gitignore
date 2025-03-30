@@ -87,3 +87,6 @@ output/
 
 0.26.0
 session_name.session
+
+data/
+data/ISOT_Fake_News_Dataset.csv
